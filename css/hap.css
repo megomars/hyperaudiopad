@@ -129,9 +129,9 @@ body { margin: 0; -webkit-text-size-adjust: 100%; }
 
 
 /* Pane configuration */
-.left.col { width: 150px; }
-.middle.col { left: 150px; width: 454px; }
-.right.col { left: 608px; right: 0; }
+.left.col { width: 170px; }
+.middle.col { left: 170px; width: 454px; }
+.right.col { left: 627px; right: 0; }
 .header.row { top: 48px; height: 30px; }
 .body.row { top: 78px; bottom: 50px; }
 .footer.row { height: 50px; bottom: 0;}
